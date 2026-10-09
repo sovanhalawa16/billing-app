@@ -1,0 +1,24 @@
+# Config & credentials
+config.php
+*.env
+*.env.local
+
+# Uploads
+uploads/*
+!uploads/.gitkeep
+
+# System
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Backup
+*.zip
+*.rar
+*.bak
+*.log
